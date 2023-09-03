@@ -3,7 +3,7 @@
 VERSION = 2019
 PATCHLEVEL = 04
 SUBLEVEL =
-EXTRAVERSION = Rohith_UBoot
+EXTRAVERSION = Rohith_Uboot_customization
 NAME =
 
 # *DOCUMENTATION*

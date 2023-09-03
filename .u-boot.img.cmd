@@ -1,0 +1,1 @@
+cmd_u-boot.img := ./tools/mkimage -A arm -T firmware -C none -O u-boot -a 0x80800000 -e 0 -n "U-Boot 2019.04Rohith_Uboot_customization""-g47a547b0-dirty for am335x board" -d u-boot.bin u-boot.img >/dev/null 

@@ -1,0 +1,15 @@
+spi-nor-core.c:153:12:read_sr	16	static
+spi-nor-core.c:192:12:read_cr	16	static
+spi-nor-core.c:221:12:write_enable	4	static
+spi-nor-core.c:229:12:write_disable	4	static
+spi-nor-core.c:907:12:spi_nor_read	40	static
+spi-nor-core.c:111:16:spi_nor_write_data	72	static
+spi-nor-core.c:73:16:spi_nor_read_data	64	static
+spi-nor-core.c:422:12:spi_nor_wait_till_ready_with_timeout.constprop	32	static
+spi-nor-core.c:47:12:spi_nor_read_reg	72	static
+spi-nor-core.c:63:12:spi_nor_write_reg	72	static
+spi-nor-core.c:1201:12:spansion_read_cr_quad_enable	24	static
+spi-nor-core.c:1058:12:spi_nor_write	56	static
+spi-nor-core.c:549:12:spi_nor_erase	32	static
+spi-nor-core.c:2251:5:spi_nor_scan	424	static
+spi-nor-core.c:2406:5:spi_flash_cmd_get_sw_write_prot	8	static
